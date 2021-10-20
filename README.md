@@ -1,4 +1,6 @@
 # credit_card_churn_classification
+in this project I used Random Forest Classification model to predict customer churn.
+---------------------------------------------------------------------------------
 
 * Type of challenge: ```Learning```
 * Duration: ```1 weeks```
