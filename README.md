@@ -1,5 +1,5 @@
 # credit_card_churn_classification
--------------------------------------------------------------------------------------
+
 
 In this project I used different Classification model to predict customer churn
 
@@ -20,7 +20,6 @@ In this project I used different Classification model to predict customer churn
 -------------------------------------------------------------
 # Tools & Libraries
 * pandas
-* numpy
 * seaborn
 * matplotlib
 * Scikit-learn
