@@ -1,7 +1,7 @@
 # credit_card_churn_classification
 -------------------------------------------------------------------------------------
 
-In this project I used Random Forest Classification model to predict customer churn.
+In this project I used different Classification model to predict customer churn
 
 * Type of challenge: ```Learning```
 * Duration: ```1 weeks```
@@ -18,3 +18,13 @@ In this project I used Random Forest Classification model to predict customer ch
 * Describe the results from unsupervised learning.
 * Online deployment of dashboard with data insights.
 -------------------------------------------------------------
+# Tools & Libraries
+* pandas
+* numpy
+* seaborn
+* matplotlib
+* Scikit-learn
+* streamlit
+---------------------------------------
+# Usage
+``` streamlit run app.py ```
